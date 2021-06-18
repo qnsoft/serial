@@ -11,7 +11,7 @@ import (
 	"strings"
 )
 import "log"
-import "go.bug.st/serial"
+import "github.com/qnsoft/serial"
 
 // This example prints the list of serial ports and use the first one
 // to send a string "10,20,30" and prints the response on the screen.
