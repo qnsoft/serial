@@ -7,7 +7,7 @@
 package serial_test
 
 import "log"
-import "go.bug.st/serial"
+import "github.com/qnsoft/serial"
 import "fmt"
 import "time"
 

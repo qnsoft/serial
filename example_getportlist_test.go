@@ -8,7 +8,7 @@ package serial_test
 
 import "fmt"
 import "log"
-import "go.bug.st/serial"
+import "github.com/qnsoft/serial"
 
 func ExampleGetPortsList() {
 	ports, err := serial.GetPortsList()
